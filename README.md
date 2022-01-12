@@ -1,2 +1,2 @@
-# trainer
+# Trainer
 Servicio de entrenamiento ibeacons
